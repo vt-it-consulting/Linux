@@ -19,16 +19,17 @@ https://daringfireball.net/projects/markdown/syntax#header
 * /etc/passwd -->  [stores essential information ](https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/)
 * /etc/shadow --> [contains information about the system’s users’ passwords](https://linuxize.com/post/etc-shadow-file/)
 * /etc/group   --> [stores group information or defines the user groups](https://www.cyberciti.biz/faq/understanding-etcgroup-file/)
-* id --> 
-* last -->
-* who -->
-* w   -->
-* sudo -->
-* su -->
+* id --> whatis id : print real and effective user and group IDs
+* last --> whatis last :  show a listing of last logged in users
+* who -->  whatis who : show who is logged on
+* w   --> whatis w :  Show who is logged on and what they are doing.
+* sudo --> whatis sudo:  - execute a command as another user
+* su --> whatis su: run a command with substitute user and group ID
 
 
 ## 5.2 Creating Users and Groups (weight: 2)
- * [Users, Groups and Permissions in Linux](https://www.youtube.com/watch?v=b-9j2jiCOEA)
+ * [Youtube: Users, Groups and Permissions in Linux](https://www.youtube.com/watch?v=mofySWmEuL4)
+ * [Youtube: Users, Groups and Permissions in Linux](https://www.youtube.com/watch?v=b-9j2jiCOEA)
 
 
 
